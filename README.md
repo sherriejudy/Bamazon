@@ -11,8 +11,8 @@ The customer interface allows the user to view the current inventory of store it
 ### Built With
 
 ```
-* JavaScript
 * MySQl
 * Node.JS
+* JavaScript
 
 ```
