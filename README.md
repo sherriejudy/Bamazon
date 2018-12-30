@@ -1,6 +1,6 @@
 # Bamazon
 
-## Demo
+### Demo
 
 ![alt text](https://github.com/sherriejudy/Bamazon/blob/master/Dec%2015%2C%202018%2011_36%20PM.gif "Demo Gif")
 
