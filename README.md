@@ -1,7 +1,5 @@
 # Bamazon
 
-### Demo Video
-
 ![alt text](https://github.com/sherriejudy/Bamazon/blob/master/Dec%2015%2C%202018%2011_36%20PM.gif "Demo Gif")
 
 This application implements a simple command line based storefront using the npm [inquirer](https://www.npmjs.com/package/inquirer) package and the MySQL database backend together with the npm [mysql](https://www.npmjs.com/package/mysql) package.
